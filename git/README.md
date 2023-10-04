@@ -13,7 +13,7 @@
 ### gitignore 파일
 - 루트 경로에 있는 `.gitignore`파일은 버전관리 하지 않을 파일의 목록을 관리하는 용도로 쓰인다.
 - 사용하는 운영체제, 에디터, 프로그래밍 언어, SDK, 라이브러리 등의 종류에 따라 사람이 의도하지 않은 파일이 생성되는데, 이런 파일들은 버전관리 대상이 아니므로 `.gitignore`파일에서 관리한다.
-  - 예시 : https://github.com/Anuken/Mindustry/blob/b5db3ca6af3b4e1e97535224e4ca05767705b5b1/.gitignore
+  - 예시 : https://github.com/Anuken/Mindustry/blob/master/.gitignore
 - 처음 프로젝트 세팅하는 사람은 여러 툴을 사용해 자동으로 `.gitignore`파일에 들어갈 내용을 생성한다.
   - 웹사이트
     - 구글에서 'gitignore generator'로 검색
